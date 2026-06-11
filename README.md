@@ -6,6 +6,12 @@ The purpose of this repository is to help teams move from business requirements 
 
 ---
 
+## AI-SDLC Mob Programming Operating Model
+
+![AI-SDLC Mob Programming Operating Model](docs/images/AI-SDLC-MogProgramming.png)
+
+*AI-SDLC Mob Programming Operating Model showing how Requirements Engineering, Solution Architecture, Governance, Implementation, Testing, DevOps, Security, Reliability, and Operations collaborate through AI-assisted mob sessions to produce implementation-ready outcomes.*
+
 # Vision
 
 Modern software delivery often involves multiple handoffs between teams.
